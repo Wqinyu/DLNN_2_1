@@ -1,0 +1,4 @@
+batch_size,learning_rate,best_val_acc,test_acc
+64,0.002,"tensor(0.5713, device='cuda:0', dtype=torch.float64)","tensor(0.5849, device='cuda:0', dtype=torch.float64)"
+16,0.001,"tensor(0.5796, device='cuda:0', dtype=torch.float64)","tensor(0.6013, device='cuda:0', dtype=torch.float64)"
+32,0.0015,"tensor(0.5746, device='cuda:0', dtype=torch.float64)","tensor(0.5991, device='cuda:0', dtype=torch.float64)"
